@@ -4,7 +4,7 @@
     margin-bottom: 6rem;
   }
   .about-containers {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
   }
   #contact,
   #projects {
@@ -101,3 +101,4 @@
     text-align: justify;
   }
 }
+
